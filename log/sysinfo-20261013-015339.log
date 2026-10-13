@@ -1,0 +1,22 @@
+==========================================
+System Information Report
+Generated: 2026-10-13 01:53:39 UTC
+==========================================
+
+Hostname:        iib-as2
+OS Version:      Ubuntu 26.04.1 LTS
+Kernel Version:  7.0.0-31-generic
+Uptime:          up 3 weeks, 3 days, 11 hours, 23 minutes
+
+CPU Load (1/5/15 min):  0.15, 0.13, 0.11
+Disk / Usage:            14% of 25G
+Memory Usage:           57% (540Mi / 956Mi)
+Swap Usage:             0%
+IPv4 (eth0):            188.166.215.158
+10.15.0.6
+Public IPv4:            188.166.215.158
+Running Processes:      286
+Active Users:          45
+
+Report saved to: /home/26FTT1118/ds1202-project/log/sysinfo-20261013-015339.log
+==========================================
